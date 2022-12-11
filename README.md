@@ -2,7 +2,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi/CUDCgZ008dY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
+![alt text](https://github.com/UML.png?raw=true)
 # ACPFinalProj- Anime Games
 #Anime Game.py is the main game/driver code that compile the three games and AnimeGameinfo.py is where it's multiple inheritance happen.
 
@@ -27,3 +27,4 @@ Overall, in this tutorial, you'll quickly run through the basics of battling wit
 It is a game where it's opponents is a bot/computer. The user will pick randomly character on a list. And once the user done with picking the computer also pick a random characters and the battles will start
 
 You can build a or create a match by training it with relevant data. Additionally, our one piece program will remember user responses and continue building its internal graph structure to improve the responses that it can give.
+
