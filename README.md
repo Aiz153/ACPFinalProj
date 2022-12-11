@@ -37,5 +37,5 @@ You can build a or create a match by training it with relevant data. Additionall
 # Project Assesment
 
 
-1. Code Reusability- 4(Practices DRY(Do no Repeat Yourself) method excellently, leading to a shorter and cleaner program structure.
-2.
+1. Code Reusability- 4 (Practices DRY(Do no Repeat Yourself) method excellently, leading to a shorter and cleaner program structure.)
+2. Maintainability- 
