@@ -2,7 +2,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi/CUDCgZ008dY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-![alt text](https://github.com/[Aiz153]/[ACPFinalProj]/blob/[branch]/UML.jpg?raw=true)
+![alt text](http://url/to/UML.jpg)
 # ACPFinalProj- Anime Games
 #Anime Game.py is the main game/driver code that compile the three games and AnimeGameinfo.py is where it's multiple inheritance happen.
 
