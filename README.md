@@ -2,9 +2,11 @@
 " target="_blank"><img src="http://img.youtube.com/vi/CUDCgZ008dY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-![Alt text] (Umldiagram.jpg?raw=true "Title")
+## ACPFinalProj- Anime Games
 
-# ACPFinalProj- Anime Games
+### UML Diagram
+![Alt text] (images/Umldiagram.png)
+
 # Anime Game.py is the main game/driver code that compile the three games and AnimeGameinfo.py is where it's multiple inheritance happen.
 
 1."One Piece"
@@ -13,7 +15,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 2."Naruto Shippuden"
 
- Lets you pick a charactes of another famous anime Naruto Shippuden. Play the game between that computer action and the user,  true randomness abilities of Characters and the luck factor you may win the games.
+ Lets you pick a characters of another famous anime Naruto Shippuden. Play the game between that computer action and the user,  true randomness abilities of Characters and the luck factor you may win the games.
 
 # Demo
 
