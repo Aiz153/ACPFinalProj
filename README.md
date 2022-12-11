@@ -36,5 +36,3 @@ You can build a or create a match by training it with relevant data. Additionall
 
 # Project Assesment
 
-
-
