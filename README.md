@@ -33,3 +33,9 @@ It is a game where it's opponents is a bot/computer. The user will pick randomly
 
 You can build a or create a match by training it with relevant data. Additionally, our one piece program will remember user responses and continue building its internal graph structure to improve the responses that it can given.
 
+
+# Project Assesment
+
+
+1. Code Reusability- 4(Practices DRY(Do no Repeat Yourself) method excellently, leading to a shorter and cleaner program structure.
+2.
