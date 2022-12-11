@@ -37,3 +37,9 @@ You can build a or create a match by training it with relevant data. Additionall
 # Project Assesment
 
 
+1. Code Reusability- 4 (Practices DRY(Do no Repeat Yourself) method excellently, leading to a shorter and cleaner program structure.)
+2. Maintainability- 2 (The program implemented OOP principles but was not effective and does not help in the maintainability of the program. Debugging can become very challenging.)
+3. Scalability- 4 (The program has high potentials for adapting new features, immediate changes, and can handle minor and major updates with less difficulty than usual.)
+4. Execution- 4 (The program is fully functional as declared and intended with additional features that exceed the requirements of the course. Handling of errors are remarkably done. Some operations even use appropriate algorithms to improve cost-efficiency and overall performance.)
+5. Originality- 4(The quality and creativity of output is remarkable and formidable. Output is original)
+6. Overall impresion- 4(The program runs smoothly without noticeable bugs or errors.)
