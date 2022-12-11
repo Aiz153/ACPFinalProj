@@ -31,5 +31,5 @@ Overall, in this tutorial, you'll quickly run through the basics of battling wit
 
 It is a game where it's opponents is a bot/computer. The user will pick randomly character on a list. And once the user done with picking the computer also pick a random characters and the battles will start
 
-You can build a or create a match by training it with relevant data. Additionally, our one piece program will remember user responses and continue building its internal graph structure to improve the responses that it can give.
+You can build a or create a match by training it with relevant data. Additionally, our one piece program will remember user responses and continue building its internal graph structure to improve the responses that it can given.
 
